@@ -4,3 +4,4 @@ Below are the list of python programs in this repository.
 
 1) tnspingnodebynode.py - use it to check the tnsping status of database using subprocess module 
 2) reverse_integer.py   - use it to reverse signed intger 
+3) Palindrome.py - check whether the number palindrome or not
