@@ -1,6 +1,6 @@
 class Solution():
     def reverse(self,Number):
-            
+
                 flag=False
                 if Number < 0:
                      flag = True
